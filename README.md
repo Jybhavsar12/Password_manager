@@ -40,6 +40,10 @@ python3 password_manager,py
 - Passwords are stored in a local text file (`passwords.txt`).
 - This is a learning project and not intended for production use.
 
+# Suggestions 
+any suggestions would be appreciated 
+
 # copyrights 
 jyotBhavsar
+
 
