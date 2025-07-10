@@ -1,4 +1,2 @@
-# python (any version -preferably python3 ) 
-# pip (any version - preferably pip3 )
-# bcrypt 
+bcrypt 
 
